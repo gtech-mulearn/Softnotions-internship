@@ -4,7 +4,10 @@ Welcome to the MERN Stack Internship Screening for Softnotions. This document ou
 
 ## About Softnotions
 
-[Short company introduction and any relevant information about the internship opportunity.]
+> Softnotions is a niche innovation headquartered in the capital state of Kerala, which is reimagining the possibilities of traditional business solutions. The company's story is interesting, to say the least; It is an emerging company with a sense of innovation, firm goals, bright prospects, growth in all fields, and also four-dimensional customers. We have customers in most parts of the world.
+
+> Softnotions was just an idea, but when the tech bubble finally burst, the company's growth was steady and organic. Despite the economic crisis in 2008, it had a strong technology foundation, and it had a niche that would be difficult to replicate or replicate easily. The company was indeed not insulated from the financial brunt of the world around it. The steady and gradual growth paved stronger roots and, yet we are cherishing the yield.
+Join us as we embark on this journey and discover what it means to be at the intersection of technology and human development.
 
 ## How to Submit Your Work
 
