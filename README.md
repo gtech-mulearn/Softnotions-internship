@@ -17,6 +17,7 @@ Join us as we embark on this journey and discover what it means to be at the int
 - Submit your work by creating a pull request to the original repository.
 
 ## Task Descriptions
+> #### Select and complete only one of the listed tasks
 
 ### Task 1: Basic CRUD Web Application
 
