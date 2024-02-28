@@ -62,5 +62,21 @@ Join us as we embark on this journey and discover what it means to be at the int
 - Adherence to task requirements.
 - Creativity in problem-solving.
 - User interface design and usability.
+  
+#
+
+#### For the MERN Stack Internship Screening at Softnotions, please complete the following steps after selecting and completing one of the provided tasks:
+
+- Push your completed task to a GitHub repository.
+- Visit the following link to access the application form: [Apply here](https://mulearn.org/careers)
+- Submit the GitHub repository link containing your completed task through the application form.
+
+This process is integral to your application, enabling the review team to evaluate your work. Make sure to follow these instructions carefully to ensure your application is successfully processed.
+
+
+
+
+
+
 
 Thank you for your interest in the MERN Stack Internship at Softnotions. We look forward to reviewing your submissions. Good luck!
