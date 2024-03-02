@@ -24,14 +24,20 @@ git clone https://github.com/afreenpoly/Softnotions
 ```
 2. Install dependencies for both frontend and backend:
 ```
-cd Task1/frontend
+cd Softnotions/Task1/frontend
 npm install
 cd ../backend
 npm install
 ```
+Open the folder in vscode
+```
+cd ..
+code .
+```
 
 3. Set up MongoDB:
-   - Install MongoDB if not already installed or use MongoDB Atlas (MongoDB compass preferred)
+   - Install MongoDB if not already installed
+   - Use MongoDB Atlas (preferred) or MongoDB compass
    - Create a MongoDB database and obtain the connection URI.
    - Update the `config.js` file in the backend with your MongoDB URI.
 
@@ -47,9 +53,9 @@ cd frontend
 npm run dev
 ```
 
-6. Access the application in your browser at `http://localhost:3000`.
-   For frontend `http://localhost:3000`.
-   For backend check config.js and assign the corresponding port
+6. Access the application in your browser
+   For frontend it will be shown in terminal.
+   For backend check config.js and assign the corresponding port and go to that port `http://localhost:7000`
 
 ## API Endpoints
 
