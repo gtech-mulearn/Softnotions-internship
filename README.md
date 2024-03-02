@@ -20,18 +20,18 @@ This is a simple book management system that allows users to perform CRUD (Creat
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/book-management-system.git
+git clone https://github.com/afreenpoly/Softnotions
 ```
 2. Install dependencies for both frontend and backend:
 ```
-cd book-management-system/frontend
+cd Task1/frontend
 npm install
 cd ../backend
 npm install
 ```
 
 3. Set up MongoDB:
-   - Install MongoDB if not already installed or use MongoDB Atlas
+   - Install MongoDB if not already installed or use MongoDB Atlas (MongoDB compass preferred)
    - Create a MongoDB database and obtain the connection URI.
    - Update the `config.js` file in the backend with your MongoDB URI.
 
@@ -58,10 +58,6 @@ npm run dev
 - **GET /books/:id**: Get details of a specific book
 - **PUT /books/:id**: Update details of a specific book
 - **DELETE /books/:id**: Delete a specific book
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features you'd like to see implemented.
 
 ## License
 
