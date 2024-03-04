@@ -1,0 +1,65 @@
+.input-container {
+  color: yellow;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 1.6px;
+}
+
+h1{
+  letter-spacing: inherit;
+  font-family: cursive;
+}
+
+input{
+  color: yellow;
+  letter-spacing: inherit;
+  border-radius: 6px;
+  border: none;
+  padding: 2px 0px 2px 16px;
+  width: 19vw;
+  height: 1.4rem;
+  background: #77747482;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+.container {
+  position: relative;
+  background-color: #747a7f26;
+  border: double;
+  border-radius: 6px;
+  height: 55vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#button {
+  color: yellow;
+  height: 2.5rem;
+  letter-spacing: inherit;
+  width: 8rem;
+  font-size: medium;
+  font-weight: bold;
+  font-family: cursive;
+  margin-top: 18px;
+  text-align: center;
+  background: #3b3c3d;
+  border: solid;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#button:active {
+  transform: scale(0.95);
+}
