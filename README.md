@@ -1,4 +1,4 @@
-#Basic CRUD Web Application
+# Basic CRUD Web Application
 This is a basic CRUD (Create, Read, Update, Delete) web application developed as part of the internship task for Softnotions academic internship.
 
 ##Installation
