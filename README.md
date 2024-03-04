@@ -4,7 +4,7 @@ This is a basic CRUD (Create, Read, Update, Delete) web application developed as
 ## Installation
 To run this app locally, you need to have the following prerequisites installed on your system:
 
-Node.js
+Node.js \n
 npm (Node Package Manager)
 ## Steps:
 ### Clone this repository to your local machine:
