@@ -1,0 +1,41 @@
+.main_container {
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.input_container {
+  display: flex;
+  height: 60vh;
+  width: 50vw;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  background-color: #F1F5A8;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.name_inputbox {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.age_inputbox {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit_btn {
+  display: flex;
+  flex: 1;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: flex-start;
+}
